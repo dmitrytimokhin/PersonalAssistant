@@ -1,0 +1,9 @@
+#Base without model
+aiogram==3.6.0
+python-dotenv==1.0.1
+redis==5.0.4
+apscheduler==3.10.4
+gpt4all==2.7.0
+threading
+aiogtrans==1.1.10
+speechrecognition
